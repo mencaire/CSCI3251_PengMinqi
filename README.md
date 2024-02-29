@@ -1,2 +1,4 @@
 # CSCI3251_PengMinqi
-This is the report of Peng Minqi
+Hello, I'm Peng Minqi!
+My student number is 1155191548!
+I will pull my project later!
